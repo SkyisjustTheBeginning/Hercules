@@ -1,0 +1,12 @@
+16:06:59.3747842023-01-08  User Control Logged in
+16:07:43.6574272023-01-08  User Control Logged in
+16:08:17.7032142023-01-08  User Control Logged in
+16:13:25.1732352023-01-08  User Control Logged in
+16:13:14.2554422023-01-08  User Control Logged in
+16:13:00.9147922023-01-08  User Control Logged in
+16:14:43.1676352023-01-08  User Control Logged in
+16:16:18.1780362023-01-08 User Control Has logged off
+16:16:28.9698452023-01-08  User Control Logged in
+16:16:23.7358192023-01-08  User Control Logged in
+16:14:29.8283352023-01-08  User Control Logged in
+16:17:13.4480942023-01-08  User Control Logged in
